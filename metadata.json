@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Prompt Generator",
+  "description": "Generate optimized master prompts and detailed scene-by-scene storyboards for AI video generation (15s - 45s).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
